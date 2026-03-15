@@ -50,3 +50,7 @@ The dataset contains 1000 sales records with the following columns:
 
 ## Conclusion
 This project demonstrates how Python can be used for data cleaning, analysis, and visualization. It helps in understanding sales trends and business performance using real-world data.
+
+## Project Screenshot 
+- Revenue by Region
+  
