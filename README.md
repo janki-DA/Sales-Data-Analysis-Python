@@ -53,3 +53,4 @@ This project demonstrates how Python can be used for data cleaning, analysis, an
 
 ## Project Screenshot 
 - Revenue by Region
+![Image](https://github.com/user-attachments/assets/1127e923-fd5c-4072-8c13-c3dc39f8e840)
