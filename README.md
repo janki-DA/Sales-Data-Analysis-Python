@@ -61,7 +61,7 @@ This project demonstrates how Python can be used for data cleaning, analysis, an
 
 
 - Profit Distribution by Region
-
+![Image](https://github.com/user-attachments/assets/88276757-2242-412c-a1f5-cde3c943e902)
 
 - Yearly Revenue Trend
 
