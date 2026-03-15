@@ -55,7 +55,6 @@ This project demonstrates how Python can be used for data cleaning, analysis, an
 - Revenue by Region
 ![Image](https://github.com/user-attachments/assets/1127e923-fd5c-4072-8c13-c3dc39f8e840)
 
-
 - Delivery Days Distribution
 ![Image](https://github.com/user-attachments/assets/2a1a6547-5c78-4b17-a053-7c0aa19b4992)
 
@@ -65,5 +64,5 @@ This project demonstrates how Python can be used for data cleaning, analysis, an
 - Yearly Revenue Trend
 ![Image](https://github.com/user-attachments/assets/be35ccd1-dff2-4481-9a20-97169b199569)
 
- 
 - Total Profit by Item Type 
+![Image](https://github.com/user-attachments/assets/1d5d31d0-3a32-4315-a228-991099df48e9)
